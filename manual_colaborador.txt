@@ -32,7 +32,6 @@ El registro de asistencia debe realizarse mediante la plataforma corporativa o a
 3. MODALIDADES DE TRABAJO
 
 NovaCommerce opera bajo tres modalidades:
-
 - presencial
 - híbrida
 - remota
