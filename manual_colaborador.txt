@@ -1,26 +1,30 @@
-MANUAL DEL COLABORADOR Y POLÍTICAS INTERNAS - NOVACOMMERCE
-Versión 1.0 - Actualizada en 2026
+MANUAL DEL COLABORADOR Y POLÍTICAS INTERNAS – NOVACOMMERCE
+
+Versión 1.0 – Actualizada en 2026
 
 1. INTRODUCCIÓN Y CULTURA EMPRESARIAL
 
 Bienvenido a NovaCommerce.
 
-Este manual tiene como objetivo presentar las políticas internas, beneficios, normas de convivencia y lineamientos generales aplicables a todos los colaboradores de la empresa.
+NovaCommerce es una empresa especializada en soluciones de comercio electrónico, automatización digital, inteligencia artificial y desarrollo tecnológico orientado a negocios online. Nuestra organización trabaja en la creación de herramientas y experiencias digitales enfocadas en optimizar procesos, mejorar la experiencia del cliente y potenciar el crecimiento de empresas y emprendedores en entornos digitales.
 
-NovaCommerce es una empresa enfocada en comercio electrónico, automatización, soluciones digitales y experiencia del cliente, desarrollando herramientas tecnológicas para tiendas virtuales y negocios online.
+El presente manual tiene como objetivo establecer las políticas internas, lineamientos de convivencia, beneficios corporativos y normas generales aplicables a todos los colaboradores de la organización.
+
+Este documento representa una guía oficial para el correcto desarrollo de las actividades laborales dentro de NovaCommerce y deberá ser conocido y respetado por todos los integrantes de la empresa.
 
 Nuestra misión es ayudar a empresas y emprendedores a crecer mediante tecnología, innovación y procesos digitales eficientes.
 
-Nuestros valores fundamentales son:
-- innovación constante
-- transparencia
-- respeto
-- diversidad
-- colaboración
-- enfoque en resultados
-- crecimiento continuo
+Nuestra cultura empresarial se basa en:
 
-Esperamos que todos los colaboradores lean este manual atentamente, ya que servirá como guía principal para resolver dudas relacionadas con la jornada laboral, beneficios y políticas internas.
+innovación constante
+transparencia
+respeto
+diversidad
+colaboración
+enfoque en resultados
+crecimiento continuo
+
+Esperamos que cada colaborador contribuya activamente al fortalecimiento de un ambiente laboral profesional, inclusivo y orientado al aprendizaje continuo.
 
 El área de Recursos Humanos se encuentra disponible de lunes a viernes entre las 08:00 y las 18:00 mediante correo corporativo y canales internos de comunicación.
 
@@ -49,9 +53,10 @@ El saldo de horas podrá consultarse en cualquier momento mediante el portal int
 4. MODALIDADES DE TRABAJO
 
 La empresa opera bajo tres modalidades laborales:
-- presencial
-- híbrida
-- remota
+
+presencial
+híbrida
+remota
 
 La modalidad dependerá del cargo, responsabilidades y necesidades operativas de cada área.
 
@@ -60,11 +65,12 @@ Los colaboradores híbridos y remotos recibirán equipos corporativos para el de
 5. EQUIPOS CORPORATIVOS
 
 NovaCommerce suministra herramientas y equipos tecnológicos necesarios para el trabajo:
-- portátil corporativo
-- monitor adicional
-- teclado y ratón
-- auriculares
-- acceso a plataformas internas
+
+portátil corporativo
+monitor adicional
+teclado y ratón
+auriculares
+acceso a plataformas internas
 
 Todos los equipos son propiedad de la empresa y deberán devolverse en caso de finalización del contrato.
 
@@ -81,40 +87,41 @@ La empresa también podrá otorgar recesos corporativos en fechas especiales.
 NovaCommerce ofrece beneficios corporativos desde el primer día laboral.
 
 Entre ellos:
-- bono de alimentación
-- ayuda home office
-- acceso a plataformas educativas
-- programas de bienestar
-- capacitaciones internas
-- presupuesto anual de formación
 
+bono de alimentación
+ayuda home office
+acceso a plataformas educativas
+programas de bienestar
+capacitaciones internas
+presupuesto anual de formación
 8. APOYO HOME OFFICE
 
 Los colaboradores en modalidad híbrida o remota recibirán una ayuda económica mensual destinada a cubrir gastos de:
-- internet
-- energía
-- herramientas de trabajo
 
+internet
+energía
+herramientas de trabajo
 9. PROGRAMAS DE BIENESTAR
 
 La empresa mantiene alianzas con plataformas de bienestar físico y mental.
 
 Los colaboradores podrán acceder a:
-- gimnasios
-- aplicaciones de meditación
-- programas de salud emocional
-- actividades deportivas
 
+gimnasios
+aplicaciones de meditación
+programas de salud emocional
+actividades deportivas
 10. LICENCIAS Y PERMISOS
 
 NovaCommerce garantiza todas las licencias previstas en la legislación laboral vigente.
 
 Entre ellas:
-- licencia de maternidad
-- licencia de paternidad
-- licencia por matrimonio
-- licencia por luto
-- incapacidad médica
+
+licencia de maternidad
+licencia de paternidad
+licencia por matrimonio
+licencia por luto
+incapacidad médica
 
 Toda ausencia deberá notificarse al líder inmediato y al área de Recursos Humanos.
 
@@ -127,11 +134,12 @@ El certificado deberá enviarse dentro del plazo establecido por Recursos Humano
 12. CONDUCTA Y ÉTICA
 
 NovaCommerce mantiene una política de tolerancia cero frente a:
-- discriminación
-- acoso
-- violencia laboral
-- amenazas
-- filtración de información
+
+discriminación
+acoso
+violencia laboral
+amenazas
+filtración de información
 
 Todos los colaboradores deberán mantener conducta profesional, respeto mutuo y comunicación adecuada.
 
@@ -146,10 +154,11 @@ Para reuniones corporativas o eventos externos se recomienda vestimenta business
 14. CANAL DE DENUNCIAS
 
 La empresa dispone de un canal confidencial para reportar:
-- conductas inapropiadas
-- acoso
-- discriminación
-- incumplimientos éticos
+
+conductas inapropiadas
+acoso
+discriminación
+incumplimientos éticos
 
 Todas las denuncias serán tratadas de manera confidencial.
 
@@ -158,10 +167,11 @@ Todas las denuncias serán tratadas de manera confidencial.
 Los equipos corporativos son de uso exclusivamente profesional.
 
 Está prohibido:
-- instalar software no autorizado
-- compartir credenciales
-- divulgar información confidencial
-- utilizar sistemas corporativos para actividades ilegales
+
+instalar software no autorizado
+compartir credenciales
+divulgar información confidencial
+utilizar sistemas corporativos para actividades ilegales
 
 Las contraseñas deberán actualizarse periódicamente.
 
@@ -177,20 +187,25 @@ Las herramientas de inteligencia artificial utilizadas por NovaCommerce deberán
 
 No está permitido ingresar información sensible o confidencial en plataformas externas sin autorización previa.
 
+Los colaboradores deberán seguir las políticas internas de seguridad digital y uso responsable de herramientas tecnológicas.
+
 18. CAPACITACIÓN Y DESARROLLO
 
 La empresa incentiva el crecimiento profesional mediante:
-- cursos
-- talleres
-- certificaciones
-- mentorías
-- programas de formación continua
+
+cursos
+talleres
+certificaciones
+mentorías
+programas de formación continua
+
+NovaCommerce promueve el aprendizaje constante y la actualización profesional de todos sus colaboradores.
 
 19. EVALUACIÓN DE DESEMPEÑO
 
 Las evaluaciones de desempeño se realizarán periódicamente para medir resultados, habilidades y objetivos individuales.
 
-Cada colaborador podrá recibir feedback de líderes y compañeros.
+Cada colaborador podrá recibir feedback de líderes y compañeros con el objetivo de fortalecer el desarrollo profesional y mejorar el trabajo en equipo.
 
 20. VIAJES CORPORATIVOS
 
@@ -201,9 +216,10 @@ Los gastos autorizados podrán ser reembolsados según las políticas internas.
 21. FINALIZACIÓN DEL CONTRATO
 
 En caso de finalización del vínculo laboral, el colaborador deberá:
-- devolver equipos corporativos
-- entregar accesos y credenciales
-- completar el proceso de salida
+
+devolver equipos corporativos
+entregar accesos y credenciales
+completar el proceso de salida
 
 Recursos Humanos realizará el procedimiento correspondiente de cierre y documentación.
 
@@ -212,3 +228,8 @@ Recursos Humanos realizará el procedimiento correspondiente de cierre y documen
 NovaCommerce podrá actualizar este manual en cualquier momento conforme a necesidades internas, cambios operativos o modificaciones legales.
 
 Todos los colaboradores deberán mantenerse informados sobre las versiones vigentes del presente documento.
+
+El desconocimiento de las políticas aquí descritas no exime de su cumplimiento.
+
+NovaCommerce
+Tecnología, innovación y crecimiento digital.
