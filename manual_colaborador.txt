@@ -1,92 +1,214 @@
 MANUAL DEL COLABORADOR Y POLÍTICAS INTERNAS - NOVACOMMERCE
-Versión 1.0 - 2026
+Versión 1.0 - Actualizada en 2026
 
-1. INTRODUCCIÓN
+1. INTRODUCCIÓN Y CULTURA EMPRESARIAL
 
 Bienvenido a NovaCommerce.
 
-Este manual tiene como objetivo presentar las principales políticas internas, beneficios, normas de convivencia y directrices generales aplicables a todos los colaboradores de la empresa.
+Este manual tiene como objetivo presentar las políticas internas, beneficios, normas de convivencia y lineamientos generales aplicables a todos los colaboradores de la empresa.
 
-NovaCommerce es una empresa enfocada en comercio electrónico, soluciones digitales y tecnología, trabajando constantemente en innovación, automatización y experiencia del cliente.
+NovaCommerce es una empresa enfocada en comercio electrónico, automatización, soluciones digitales y experiencia del cliente, desarrollando herramientas tecnológicas para tiendas virtuales y negocios online.
 
-Nuestros valores principales son:
-- innovación
+Nuestra misión es ayudar a empresas y emprendedores a crecer mediante tecnología, innovación y procesos digitales eficientes.
+
+Nuestros valores fundamentales son:
+- innovación constante
 - transparencia
 - respeto
 - diversidad
-- trabajo en equipo
+- colaboración
+- enfoque en resultados
 - crecimiento continuo
 
-El área de Recursos Humanos está disponible de lunes a viernes entre las 08:00 y las 18:00.
+Esperamos que todos los colaboradores lean este manual atentamente, ya que servirá como guía principal para resolver dudas relacionadas con la jornada laboral, beneficios y políticas internas.
 
-2. JORNADA LABORAL
+El área de Recursos Humanos se encuentra disponible de lunes a viernes entre las 08:00 y las 18:00 mediante correo corporativo y canales internos de comunicación.
 
-La jornada laboral estándar es de 40 horas semanales distribuidas de lunes a viernes.
+2. JORNADA LABORAL Y REGISTRO DE ASISTENCIA
 
-El horario principal es de 09:00 a 18:00 con una hora de almuerzo.
+La jornada laboral estándar en NovaCommerce es de 40 horas semanales distribuidas de lunes a viernes.
 
-La empresa trabaja bajo modalidad de horario flexible. El colaborador puede iniciar labores entre las 07:00 y las 10:00 siempre que cumpla las horas correspondientes y permanezca disponible durante el horario central de colaboración.
+El horario principal de trabajo es de 09:00 a 18:00 con una hora de almuerzo.
 
-El registro de asistencia debe realizarse mediante la plataforma corporativa o aplicación móvil interna.
+La empresa adopta un modelo de horario flexible. El colaborador podrá iniciar labores entre las 07:00 y las 10:00 siempre que complete las horas correspondientes y permanezca disponible durante el horario central de colaboración entre las 10:00 y las 16:00.
 
-3. MODALIDADES DE TRABAJO
+El registro de asistencia es obligatorio y deberá realizarse mediante la plataforma corporativa o aplicación móvil.
 
-NovaCommerce opera bajo tres modalidades:
+La omisión reiterada del registro podrá generar advertencias internas.
+
+3. BANCO DE HORAS Y HORAS EXTRAS
+
+NovaCommerce trabaja bajo sistema de banco de horas con validez semestral.
+
+Las horas adicionales trabajadas podrán compensarse mediante tiempo libre según las políticas internas y legislación vigente.
+
+Las horas extras deberán contar con aprobación previa del líder directo.
+
+El saldo de horas podrá consultarse en cualquier momento mediante el portal interno del colaborador.
+
+4. MODALIDADES DE TRABAJO
+
+La empresa opera bajo tres modalidades laborales:
 - presencial
 - híbrida
 - remota
 
-La modalidad dependerá del cargo y las necesidades operativas de cada área.
+La modalidad dependerá del cargo, responsabilidades y necesidades operativas de cada área.
 
-Los colaboradores en modalidad híbrida o remota recibirán equipos corporativos para el desempeño de sus funciones.
+Los colaboradores híbridos y remotos recibirán equipos corporativos para el desempeño de sus funciones.
 
-4. BENEFICIOS
+5. EQUIPOS CORPORATIVOS
 
-La empresa ofrece beneficios corporativos desde el primer día laboral.
+NovaCommerce suministra herramientas y equipos tecnológicos necesarios para el trabajo:
+- portátil corporativo
+- monitor adicional
+- teclado y ratón
+- auriculares
+- acceso a plataformas internas
+
+Todos los equipos son propiedad de la empresa y deberán devolverse en caso de finalización del contrato.
+
+6. VACACIONES Y DESCANSOS
+
+Todos los colaboradores tienen derecho a vacaciones remuneradas conforme a la legislación vigente.
+
+Las solicitudes deberán realizarse mediante el sistema interno con anticipación mínima definida por Recursos Humanos.
+
+La empresa también podrá otorgar recesos corporativos en fechas especiales.
+
+7. BENEFICIOS CORPORATIVOS
+
+NovaCommerce ofrece beneficios corporativos desde el primer día laboral.
 
 Entre ellos:
 - bono de alimentación
 - ayuda home office
+- acceso a plataformas educativas
 - programas de bienestar
-- capacitaciones
-- acceso a plataformas de aprendizaje
-- presupuesto anual para formación
+- capacitaciones internas
+- presupuesto anual de formación
 
-5. VACACIONES Y LICENCIAS
+8. APOYO HOME OFFICE
 
-Todos los colaboradores tienen derecho a vacaciones remuneradas conforme a la legislación vigente.
+Los colaboradores en modalidad híbrida o remota recibirán una ayuda económica mensual destinada a cubrir gastos de:
+- internet
+- energía
+- herramientas de trabajo
 
-Las solicitudes deben realizarse con anticipación mediante el sistema interno.
+9. PROGRAMAS DE BIENESTAR
 
-La empresa también contempla licencias por:
-- maternidad
-- paternidad
-- matrimonio
-- luto
+La empresa mantiene alianzas con plataformas de bienestar físico y mental.
+
+Los colaboradores podrán acceder a:
+- gimnasios
+- aplicaciones de meditación
+- programas de salud emocional
+- actividades deportivas
+
+10. LICENCIAS Y PERMISOS
+
+NovaCommerce garantiza todas las licencias previstas en la legislación laboral vigente.
+
+Entre ellas:
+- licencia de maternidad
+- licencia de paternidad
+- licencia por matrimonio
+- licencia por luto
 - incapacidad médica
 
-6. CONDUCTA Y ÉTICA
+Toda ausencia deberá notificarse al líder inmediato y al área de Recursos Humanos.
+
+11. AUSENCIAS MÉDICAS
+
+Las ausencias por motivos de salud deberán justificarse mediante certificado médico válido.
+
+El certificado deberá enviarse dentro del plazo establecido por Recursos Humanos.
+
+12. CONDUCTA Y ÉTICA
 
 NovaCommerce mantiene una política de tolerancia cero frente a:
 - discriminación
 - acoso
 - violencia laboral
+- amenazas
 - filtración de información
 
-Todos los colaboradores deben mantener conducta profesional y respeto mutuo.
+Todos los colaboradores deberán mantener conducta profesional, respeto mutuo y comunicación adecuada.
 
-7. SEGURIDAD DE LA INFORMACIÓN
+13. CÓDIGO DE VESTIMENTA
+
+El ambiente laboral de NovaCommerce es casual.
+
+Se permite el uso de ropa cómoda y apropiada para un entorno profesional.
+
+Para reuniones corporativas o eventos externos se recomienda vestimenta business casual.
+
+14. CANAL DE DENUNCIAS
+
+La empresa dispone de un canal confidencial para reportar:
+- conductas inapropiadas
+- acoso
+- discriminación
+- incumplimientos éticos
+
+Todas las denuncias serán tratadas de manera confidencial.
+
+15. SEGURIDAD DE LA INFORMACIÓN
 
 Los equipos corporativos son de uso exclusivamente profesional.
 
-Está prohibida la instalación de software no autorizado o la divulgación de información confidencial de la empresa.
+Está prohibido:
+- instalar software no autorizado
+- compartir credenciales
+- divulgar información confidencial
+- utilizar sistemas corporativos para actividades ilegales
 
 Las contraseñas deberán actualizarse periódicamente.
 
-8. DESARROLLO PROFESIONAL
+16. CONFIDENCIALIDAD
 
-La empresa incentiva el crecimiento profesional mediante programas de formación, cursos y evaluaciones internas.
+Toda información relacionada con clientes, operaciones, estrategias comerciales y tecnología interna será considerada confidencial.
 
-9. FINALIZACIÓN DEL CONTRATO
+La divulgación indebida podrá generar sanciones disciplinarias y legales.
 
-En caso de finalización del vínculo laboral, el colaborador deberá devolver todos los equipos corporativos y completar el proceso de salida definido por Recursos Humanos.
+17. USO DE HERRAMIENTAS DE IA
+
+Las herramientas de inteligencia artificial utilizadas por NovaCommerce deberán emplearse únicamente para fines profesionales autorizados.
+
+No está permitido ingresar información sensible o confidencial en plataformas externas sin autorización previa.
+
+18. CAPACITACIÓN Y DESARROLLO
+
+La empresa incentiva el crecimiento profesional mediante:
+- cursos
+- talleres
+- certificaciones
+- mentorías
+- programas de formación continua
+
+19. EVALUACIÓN DE DESEMPEÑO
+
+Las evaluaciones de desempeño se realizarán periódicamente para medir resultados, habilidades y objetivos individuales.
+
+Cada colaborador podrá recibir feedback de líderes y compañeros.
+
+20. VIAJES CORPORATIVOS
+
+Cuando exista necesidad de viajes laborales, el colaborador deberá coordinar reservas y aprobaciones con anticipación.
+
+Los gastos autorizados podrán ser reembolsados según las políticas internas.
+
+21. FINALIZACIÓN DEL CONTRATO
+
+En caso de finalización del vínculo laboral, el colaborador deberá:
+- devolver equipos corporativos
+- entregar accesos y credenciales
+- completar el proceso de salida
+
+Recursos Humanos realizará el procedimiento correspondiente de cierre y documentación.
+
+22. DISPOSICIONES FINALES
+
+NovaCommerce podrá actualizar este manual en cualquier momento conforme a necesidades internas, cambios operativos o modificaciones legales.
+
+Todos los colaboradores deberán mantenerse informados sobre las versiones vigentes del presente documento.
