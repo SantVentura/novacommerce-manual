@@ -233,3 +233,220 @@ El desconocimiento de las políticas aquí descritas no exime de su cumplimiento
 
 NovaCommerce
 Tecnología, innovación y crecimiento digital.
+
+23. COMUNICACIÓN Y DISPONIBILIDAD
+Todos los colaboradores deberán mantener comunicación activa mediante las plataformas corporativas autorizadas por la empresa.
+Durante la jornada laboral, se espera disponibilidad razonable para:
+
+
+reuniones internas
+
+
+seguimiento de tareas
+
+
+coordinación con equipos
+
+
+atención de mensajes corporativos
+
+
+soporte operativo entre áreas
+
+
+Los colaboradores en modalidad híbrida o remota deberán mantener un entorno adecuado para el correcto desempeño de sus funciones y garantizar conexión estable durante el horario laboral.
+La comunicación deberá mantenerse de forma profesional, clara y respetuosa en todos los canales internos de la organización.
+
+24. USO DE PLATAFORMAS Y CUENTAS CORPORATIVAS
+Las cuentas corporativas, correos electrónicos, accesos y plataformas proporcionadas por NovaCommerce deberán utilizarse exclusivamente para actividades laborales autorizadas.
+Está prohibido:
+
+
+compartir accesos corporativos con terceros
+
+
+utilizar cuentas empresariales para actividades personales no autorizadas
+
+
+alterar configuraciones de seguridad
+
+
+eliminar información corporativa sin autorización
+
+
+La empresa podrá realizar monitoreo técnico y auditorías internas sobre los sistemas corporativos con fines de:
+
+
+seguridad informática
+
+
+prevención de incidentes
+
+
+cumplimiento normativo
+
+
+protección de información empresarial
+
+
+Todo colaborador deberá cumplir las políticas internas relacionadas con ciberseguridad y protección digital.
+
+25. PROTECCIÓN DE DATOS
+NovaCommerce se compromete a proteger la información personal, comercial y tecnológica conforme a la legislación vigente y buenas prácticas de seguridad digital.
+Todos los colaboradores deberán:
+
+
+manejar información con responsabilidad
+
+
+evitar accesos no autorizados
+
+
+proteger datos de clientes y usuarios
+
+
+reportar incidentes de seguridad
+
+
+mantener confidencialidad sobre información sensible
+
+
+La información almacenada en plataformas internas únicamente podrá utilizarse para fines relacionados con las operaciones de la empresa.
+El incumplimiento de las políticas de protección de datos podrá generar sanciones disciplinarias y acciones legales conforme a la normativa aplicable.
+
+26. PROPIEDAD INTELECTUAL
+Todo desarrollo, diseño, código fuente, documentación, estrategia, contenido, sistema, proceso o material creado durante la relación laboral para NovaCommerce será considerado propiedad intelectual de la empresa, salvo disposición legal distinta.
+Esto incluye:
+
+
+software
+
+
+automatizaciones
+
+
+diseños gráficos
+
+
+documentación técnica
+
+
+contenido corporativo
+
+
+desarrollos internos
+
+
+modelos de inteligencia artificial
+
+
+procesos operativos
+
+
+recursos digitales
+
+
+Los colaboradores no podrán utilizar, distribuir o comercializar información o materiales desarrollados para NovaCommerce sin autorización previa de la empresa.
+
+27. CIBERSEGURIDAD Y BUENAS PRÁCTICAS DIGITALES
+NovaCommerce promueve una cultura de seguridad digital orientada a proteger la infraestructura tecnológica y la información corporativa.
+Todos los colaboradores deberán:
+
+
+mantener dispositivos actualizados
+
+
+utilizar contraseñas seguras
+
+
+activar mecanismos de autenticación cuando sean requeridos
+
+
+evitar enlaces sospechosos o archivos desconocidos
+
+
+reportar incidentes de seguridad inmediatamente
+
+
+Está prohibido:
+
+
+desactivar herramientas de seguridad corporativas
+
+
+acceder a sistemas sin autorización
+
+
+utilizar redes inseguras para información sensible
+
+
+descargar software no aprobado por la empresa
+
+
+La seguridad informática es responsabilidad compartida de todos los integrantes de la organización.
+
+28. CULTURA DE INNOVACIÓN Y MEJORA CONTINUA
+NovaCommerce fomenta un entorno orientado a la innovación, aprendizaje constante y optimización de procesos.
+La empresa incentiva a sus colaboradores a:
+
+
+proponer nuevas ideas
+
+
+mejorar flujos de trabajo
+
+
+automatizar procesos
+
+
+compartir conocimiento
+
+
+participar en iniciativas tecnológicas
+
+
+desarrollar habilidades digitales
+
+
+El crecimiento profesional y la adaptación al cambio forman parte de la cultura organizacional de NovaCommerce.
+
+29. USO RESPONSABLE DE RECURSOS TECNOLÓGICOS
+Todos los recursos tecnológicos proporcionados por NovaCommerce deberán utilizarse de forma responsable, ética y alineada con los objetivos de la organización.
+Los colaboradores deberán evitar:
+
+
+uso excesivo de recursos corporativos para fines personales
+
+
+almacenamiento innecesario de archivos
+
+
+uso indebido de licencias empresariales
+
+
+actividades que afecten el rendimiento de los sistemas internos
+
+
+La empresa podrá establecer límites, controles y políticas técnicas para garantizar el correcto funcionamiento de su infraestructura digital.
+
+30. ACTUALIZACIONES Y CUMPLIMIENTO DE POLÍTICAS
+Las políticas internas de NovaCommerce podrán actualizarse conforme a:
+
+
+cambios legales
+
+
+necesidades operativas
+
+
+evolución tecnológica
+
+
+nuevas medidas de seguridad
+
+
+crecimiento organizacional
+
+
+Todos los colaboradores deberán mantenerse informados sobre las versiones vigentes de los lineamientos corporativos y cumplir las disposiciones establecidas por la empresa.
+El incumplimiento de las políticas internas podrá derivar en procesos disciplinarios conforme a la normativa aplicable y reglamentos internos de NovaCommerce.
